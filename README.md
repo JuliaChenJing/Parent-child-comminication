@@ -7,3 +7,5 @@
 Clone/download the project
 - npm i
 - npm start
+
+[Lesson on Coding](https://youtu.be/DUe8y6QVPMk)
