@@ -21,9 +21,7 @@ import { AppState } from './app.service';
   template: require('./app.component.html')
 })
 export class AppComponent implements OnInit {
-  public angularclassLogo = 'assets/img/angularclass-avatar.png';
-  public name = 'Angular 2 Webpack Starter';
-  public url = 'https://twitter.com/AngularClass';
+  public list: string[] = ['hello', 'there', 'ryan'];
 
   constructor(
     public appState: AppState

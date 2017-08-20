@@ -7,3 +7,12 @@ body {
 a.active {
     background-color: gray;
 }
+
+#child-container {
+    border: 1px solid #cdcdcd;
+    width: 500px;
+    height: 600px;
+    margin: auto;
+    text-align: center;
+    background: #F5F5F5!important;
+}
