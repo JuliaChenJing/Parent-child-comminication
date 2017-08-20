@@ -1,6 +1,6 @@
 # Parent to child communication.
 
-* A quick demonstations of how parent to child communication works in Angular 4.
+* Using the @Input and @Output decorators within Angualr 4 to pass data between components!
 
 ### Running the application
 
