@@ -1,4 +1,4 @@
-## Parent to child communication.
+# Parent to child communication.
 
 * A quick demonstations of how parent to child communication works in Angular 4.
 
