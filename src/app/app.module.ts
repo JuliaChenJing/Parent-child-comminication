@@ -26,7 +26,6 @@ import { AppComponent } from './app.component';
 import { APP_RESOLVER_PROVIDERS } from './app.resolver';
 import { AppState, InternalStateType } from './app.service';
 import { NoContentComponent } from './no-content';
-import { XLargeDirective } from './home/x-large';
 
 import '../styles/styles.scss';
 import '../styles/headings.css';
@@ -51,8 +50,7 @@ type StoreType = {
   declarations: [
     AppComponent,
     ChildComponent,
-    NoContentComponent,
-    XLargeDirective
+    NoContentComponent
   ],
   /**
    * Import Angular's modules.
